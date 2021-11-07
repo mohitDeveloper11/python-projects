@@ -1,0 +1,6 @@
+Libraries - 
+
+pandas
+pandas-datareader
+matplotlib
+mpl-finance
